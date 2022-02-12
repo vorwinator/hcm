@@ -1,0 +1,84 @@
+.locationBaner{
+    background-color: lightgrey;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    border-bottom: 1px black solid;
+}
+
+.addServiceButton{
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: white;
+    font-weight: 400;
+    line-height: 1.5;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    width: 130px;
+}
+
+.main{
+}
+
+footer{
+    background-color: #24cd00;
+    position:absolute;
+    bottom:0;
+    width: 100%;
+}
+
+.footerWrap{
+    
+}
+
+.navigationBar{
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    font-weight: 600;
+    background-color: #24cd00;
+}
+
+html,body{
+    height: 100%;
+}
+
+.bodyWrap{
+    position:relative;
+    min-height: 100vh;
+}
+
+.contentWrap{
+    padding-bottom: 80px;
+}
+
+.submitButton{
+    text-decoration: none;
+}
+
+a.submitButton:hover{
+    color:white;
+}
+
+.locationBanerLogin{
+    background-color: #24cd00;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    border-bottom: 1px black solid;
+}
+
+.backgroundText{
+    background-color: #24cd00;
+    color:white;
+}
+
+.backgroundText:hover{
+    color:white;
+}
+
+.page-item.active .page-link{
+    background-color: #24cd00!important;
+    border-color: #24cd00!important;
+}
+
